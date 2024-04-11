@@ -22,9 +22,9 @@ face-alignment==1.3.3
     # via dot (setup.cfg)
 flatbuffers==2.0
     # via onnxruntime
-fonttools==4.34.4
+fonttools==4.43.0
     # via matplotlib
-idna==2.10
+idna==3.7
     # via requests
 imageio==2.19.3
     # via scikit-image
@@ -74,7 +74,7 @@ packaging==21.3
     #   kornia
     #   matplotlib
     #   scikit-image
-pillow==10.0.1
+pillow==10.3.0
     # via
     #   dot (setup.cfg)
     #   imageio
