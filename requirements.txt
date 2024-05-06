@@ -39,15 +39,15 @@ flatbuffers==2.0
     # via
     #   mediapipe
     #   onnxruntime
-fonttools==4.34.4
+fonttools==4.43.0
     # via matplotlib
-idna==2.10
+idna==3.7
     # via requests
 imageio==2.19.3
     # via scikit-image
 iniconfig==2.0.0
     # via pytest
-jinja2==3.1.2
+jinja2==3.1.4
     # via torch
 kiwisolver==1.4.3
     # via matplotlib
@@ -101,7 +101,7 @@ packaging==21.3
     #   matplotlib
     #   pytest
     #   scikit-image
-pillow==10.0.1
+pillow==10.3.0
     # via
     #   dot (setup.cfg)
     #   imageio
@@ -160,7 +160,7 @@ torch==2.0.1
     #   torchvision
 torchvision==0.15.2
     # via dot (setup.cfg)
-tqdm==4.64.0
+tqdm==4.66.3
     # via face-alignment
 typing-extensions==4.3.0
     # via torch
