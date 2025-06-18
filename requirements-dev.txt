@@ -186,7 +186,7 @@ pre-commit==2.19.0
     # via dot (setup.cfg)
 prompt-toolkit==3.0.30
     # via ipython
-protobuf==3.20.2
+protobuf==4.25.8
     # via
     #   dot (setup.cfg)
     #   mediapipe
@@ -229,7 +229,7 @@ pyyaml==5.4.1
     # via
     #   dot (setup.cfg)
     #   pre-commit
-requests==2.31.0
+requests==2.32.4
     # via
     #   dot (setup.cfg)
     #   torchvision
