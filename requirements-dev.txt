@@ -203,7 +203,7 @@ pyflakes==2.3.1
     # via flake8
 pygments==2.15.0
     # via ipython
-pyinstaller==5.13.1
+pyinstaller==6.0.0
     # via dot (setup.cfg)
 pyinstaller-hooks-contrib==2023.5
     # via pyinstaller
